@@ -1,3 +1,3 @@
 {
-  "guid_group": "g0"
+  "guid_group": "test"
 }
