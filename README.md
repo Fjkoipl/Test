@@ -1,1 +1,3 @@
-# Test
+{
+  "guid_group": "g0"
+}
