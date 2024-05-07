@@ -1,3 +1,3 @@
 {
-  "guid_group": "g0E3CKZ0bc92af23360926c93cf41bab"
+  "guid_group": "g0E7zlY0f8e87711ae6ddf102d2f3fbb"
 }
